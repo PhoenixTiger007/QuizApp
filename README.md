@@ -1,4 +1,4 @@
-# adv_basics
+# Quiz App Mobile
 
 A new Flutter project.
 
